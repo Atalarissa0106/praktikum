@@ -1,2 +1,2 @@
 # praktikum
-apa ya
+Praktikum untuk PTN di surabaya
